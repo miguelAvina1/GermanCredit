@@ -17,7 +17,7 @@ Learning Repository](http://archive.ics.uci.edu/ml/datasets/statlog+(german+cred
 
 ### Instructions ###  
 
-The instructions and overview for this assignment is provided [here](http).
+The instructions and overview for this assignment is provided [here](https://github.com/miguelAvina1/GermanCredit/blob/master/Instructions/Tarea_arboles_de_decision.pdf).
 
 
 ### Results ###  
